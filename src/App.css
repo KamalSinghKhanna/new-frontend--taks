@@ -1,0 +1,86 @@
+.font-Satoshi {
+  font-family: "Satoshi", sans-serif;
+  /* Other styling */
+}
+
+.group:hover .animate-infinite-scroll {
+  animation-play-state: paused;
+}
+
+.swiper-container {
+  height: auto;
+  padding: 2rem 0;
+  position: relative;
+}
+
+.swiper-slide {
+  width: 30rem !important;
+  height: auto !important;
+  position: relative;
+}
+
+@media (max-width: 600px) {
+  .swiper-slide {
+    width: 250px !important;
+    height: auto !important;
+  }
+  .swiper-slide img {
+    width: 2500px !important;
+    height: 250px !important;
+  }
+}
+
+.swiper-slide img {
+  width: 400px;
+  height: 400px;
+  border-radius: 2rem;
+  object-fit: cover;
+}
+
+.swiper-slide-shadow-left,
+.swiper-slide-shadow-right {
+  display: none;
+}
+
+.dropdown-item {
+  position: relative;
+  cursor: pointer;
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+.dropdown-item:hover {
+  color: rgb(13, 18, 44);
+}
+
+.dropdown-item:hover::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2px;
+  background-color: rgb(13, 18, 44);
+  animation: underline-expand 0.3s ease;
+}
+
+@keyframes underline-expand {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 1s ease-in-out;
+}
