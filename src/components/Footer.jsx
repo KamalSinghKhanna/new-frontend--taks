@@ -3,7 +3,7 @@ const Footer = () => {
   return (
     <div className="mt-24 flex flex-col px-8 md:px-12 lg:px-24 gap-3 pb-8">
       <span className="text-[#374151] font-Satoshi tracking-wider font-bold text-2xl">
-        UniCraft
+        &lt;Chill Devs/&gt;
       </span>
       <span className="text-[#9CA3AF] font-Satoshi text-lg font-medium leading-normal tracking-tight">
         Design amazing digital experiences that <br /> create more happy in the

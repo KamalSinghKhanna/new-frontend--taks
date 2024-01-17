@@ -3,12 +3,14 @@ import LogoList from "./LogoList"
 
 const Banner = () => {
   const logos = [
-    { src: "/img1.svg", alt: "logo" },
-    { src: "/img2.svg", alt: "logo" },
-    { src: "/img3.svg", alt: "logo" },
-    { src: "/img4.svg", alt: "logo" },
-    { src: "/img5.svg", alt: "logo" },
-    { src: "/img6.svg", alt: "logo" },
+    { src: "/react.svg", alt: "logo", name:"React" },
+    { src: "/js.svg", alt: "logo", name:"JavaScript" },
+    { src: "/react.svg", alt: "logo", name:"react" },
+    // { src: "/img2.svg", alt: "logo" },
+    // { src: "/img3.svg", alt: "logo" },
+    // { src: "/img4.svg", alt: "logo" },
+    // { src: "/img5.svg", alt: "logo" },
+    // { src: "/img6.svg", alt: "logo" },
     
   ];
 
@@ -17,10 +19,13 @@ const Banner = () => {
       <div className="flex flex-col gap-8 items-center">
         <div className="">
           <div className="px-4 lg:px-16 text-[#1F2937] text-center font-Satoshi text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight tracking-wide">
-            Elevate Your Presence with
+            Cool Code, Better Approace
           </div>
-          <div className="px-4 text-[#1F2937] text-center font-Satoshi text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight tracking-wide">
-            Seamless Design and Innovation.
+          <div className="px-4 text-[#1F2937] text-center font-Satoshi text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight tracking-wide mt-4">
+            We&apos;re Your NextGen Developers
+          </div>
+          <div className="px-4 text-[#1F2937] text-center font-Satoshi text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight tracking-wide rotate-90 mt-2">
+            :)
           </div>
         </div>
         <p className="text-[#4B5563] text-center font-Satoshi text-base sm:text-xl font-medium leading-normal px-8 sm:px-0">

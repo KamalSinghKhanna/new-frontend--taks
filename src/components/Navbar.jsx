@@ -8,7 +8,7 @@ const Navbar = () => {
     <>
       <div className="sm:flex items-center justify-between sm:px-8 md:px-12 lg:px-24 pt-6 hidden">
         <span className="text-[#374151] font-Satoshi tracking-wider font-bold text-2xl">
-          UniCraft
+          &lt; Chill Devs /&gt;
         </span>
         <div className="flex items-center sm:gap-7 lg:gap-12">
           <a
@@ -37,9 +37,9 @@ const Navbar = () => {
         </a>
       </div>
       {/* mobile version */}
-      <div className="flex items-center justify-between px-8 pt-4 sm:hidden">
-        <span className="text-[#374151] font-Satoshi tracking-wider font-bold text-2xl">
-          UniCraft
+      <div className="flex items-center justify-between px-8 pt-4 sm:hidden pb-5">
+        <span className="text-[#374151] font-Satoshi tracking-wider font-bold text-xl">
+          &lt;Chill Devs/&gt;
         </span>
         <img
           src="./menu.svg"
