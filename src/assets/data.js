@@ -81,7 +81,7 @@ export const features = [
     title: "Reach Out",
     description:
       "Start by reaching out to us. Contact us through our website or drop us an email. Share your project details, expectations, and requirements. We're here to listen and understand your vision.",
-    bgColor: "bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-blue-700 via-blue-800 to-gray-900",
+    bgColor: "bg-gradient-to-bl from-cyan-400 via-slate-100 to-blue-200",
   },
 
   {
