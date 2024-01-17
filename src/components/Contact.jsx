@@ -3,7 +3,7 @@
 const Contact = () => {
   return (
     <div
-      className="mt-48 sm:mt-60 flex flex-col items-center justify-center px-8 sm:px-0"
+      className="mt-48 sm:mt-60 flex flex-col items-center justify-center px-4 sm:px-0"
       id="contact"
     >
       <span className="text-[#101828] text-center font-Satoshi text-3xl sm:text-4xl md:text-5xl font-extrabold leading-normal tracking-tighter">
