@@ -81,21 +81,21 @@ export const features = [
     title: "Reach Out",
     description:
       "Start by reaching out to us. Contact us through our website or drop us an email. Share your project details, expectations, and requirements. We're here to listen and understand your vision.",
-    bgColor: "bg-gradient-to-r from-indigo-300 to-purple-400",
+    bgColor: "bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-blue-700 via-blue-800 to-gray-900",
   },
 
   {
     title: "Consultation",
     description:
       "We'll schedule a consultation to dive deeper into your project. This is where we discuss your goals, preferences, and any specific features you have in mind. Our team will work closely with you to ensure a clear understanding of your project requirements.",
-    bgColor: "bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-sky-400 to-blue-800",
+    bgColor: "bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-slate-900 via-purple-900 to-slate-900",
   },
   {
     title: "Proposal & Agreement",
     description:
       "Based on our discussions, we'll provide you with a detailed proposal outlining the scope of work, timelines, and costs. Once we reach an agreement, we proceed to the next steps.",
 
-    bgColor: "bg-[radial-gradient(ellipse_at_right,_var(--tw-gradient-stops))] from-sky-400 to-indigo-900",
+    bgColor: "bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-sky-400 to-indigo-900",
   },
   {
     title: "Development",
@@ -120,14 +120,14 @@ export const features = [
     title: "Ongoing Support",
     description:
       "Our commitment doesn't end with delivery. We offer ongoing support, ensuring that your website continues to meet your evolving needs. Whether it's updates, maintenance, or additional features, we're here for you.",
-    bgColor: "bg-gradient-to-r from-cyan-200 to-cyan-400",
+    bgColor: "bg-gradient-to-r from-rose-700 to-pink-600",
   },
   {
     title: "Ready to bring your ideas to life?",
     description:
       "Contact us today, and let's embark on a journey to create a custom web solution that exceeds your expectations.",
     bgColor:
-      "bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-sky-400 to-blue-800",
+      "bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black",
   },
 ];
 
