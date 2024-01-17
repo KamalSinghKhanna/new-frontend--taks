@@ -137,7 +137,7 @@ export const CarouselImages = [
   {
     img: "/projectbid.png",
     alt: "slide_img",
-    bgColor: "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600",
+    bgColor: "bg-gradient-to-r from-indigo-300 to-purple-400",
   },
   {
     img: "/debatale.png",
@@ -149,27 +149,27 @@ export const CarouselImages = [
     img: "/paynav.png",
     alt: "slide_img",
     bgColor:
-      "bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-yellow-500 via-purple-500 to-blue-500",
+      "bg-[radial-gradient(ellipse_at_right,_var(--tw-gradient-stops))] from-sky-400 to-indigo-900",
   },
   {
     img: "/dotstory.png",
     alt: "slide_img",
-    bgColor: "bg-gradient-to-r from-green-200 via-green-300 to-blue-500",
+    bgColor: "bg-gradient-to-bl from-indigo-900 via-indigo-400 to-indigo-900",
   },
   {
     img: "/gym.png",
     alt: "slide_img",
-    bgColor: "bg-gradient-to-r from-purple-200 via-purple-400 to-purple-800",
+    bgColor: "bg-[conic-gradient(at_right,_var(--tw-gradient-stops))] from-indigo-200 via-slate-600 to-indigo-200",
   },
   {
     img: "/chat.png",
     alt: "slide_img",
     bgColor:
-      "bg-[conic-gradient(at_right,_var(--tw-gradient-stops))] from-yellow-200 via-pink-200 to-pink-400",
+      "bg-gradient-to-r from-rose-500 via-red-400 to-red-500",
   },
   {
     img: "/chatapp.png",
     alt: "slide_img",
-    bgColor: "bg-gradient-to-r from-sky-400 via-rose-400 to-lime-400",
+    bgColor: "bg-gradient-to-r from-cyan-200 to-cyan-400",
   },
 ];
