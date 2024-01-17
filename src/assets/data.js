@@ -142,14 +142,12 @@ export const CarouselImages = [
   {
     img: "/debatale.png",
     alt: "slide_img",
-    bgColor:
-      "bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-sky-400 to-blue-800",
+    bgColor: "bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-sky-400 to-blue-800",
   },
   {
     img: "/paynav.png",
     alt: "slide_img",
-    bgColor:
-      "bg-[radial-gradient(ellipse_at_right,_var(--tw-gradient-stops))] from-sky-400 to-indigo-900",
+    bgColor:"bg-[radial-gradient(ellipse_at_right,_var(--tw-gradient-stops))] from-sky-400 to-indigo-900",
   },
   {
     img: "/dotstory.png",
@@ -164,8 +162,7 @@ export const CarouselImages = [
   {
     img: "/chat.png",
     alt: "slide_img",
-    bgColor:
-      "bg-gradient-to-r from-rose-500 via-red-400 to-red-500",
+    bgColor: "bg-gradient-to-r from-rose-500 via-red-400 to-red-500",
   },
   {
     img: "/chatapp.png",
