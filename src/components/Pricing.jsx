@@ -5,7 +5,7 @@ const Pricing = () => {
       id="pricing"
     >
       <div className="flex flex-col items-center gap-3 px-0 lg:px-24">
-        <span className="text-[#262E35] text-center font-Satoshi text-4xl sm:text-5xl font-bold leading-normal tracking-tighter">
+        <span className="text-[#262E35] text-center font-Satoshi text-4xl sm:text-5xl font-bold leading-3 sm:leading-normal tracking-tighter">
           Flexible Pricing for Web App Solutions
         </span>
         <span className="text-[#6B7280]  text-center font-Satoshi text-lg font-medium leading-normal px-0 sm:px-12 md:px-20 lg:px-36">

@@ -3,16 +3,16 @@
 const Contact = () => {
   return (
     <div
-      className="mt-48 sm:mt-60 flex flex-col items-center justify-center"
+      className="mt-48 sm:mt-60 flex flex-col items-center justify-center px-8 sm:px-0"
       id="contact"
     >
       <span className="text-[#101828] text-center font-Satoshi text-3xl sm:text-4xl md:text-5xl font-extrabold leading-normal tracking-tighter">
         Seamless Collaboration
       </span>
-      <span className="mt-2 text-[#101828] text-center font-Satoshi text-3xl sm:text-4xl md:text-5xl font-extrabold leading-normal tracking-tighter">
+      <span className="sm:mt-2 text-[#101828] text-center font-Satoshi text-3xl sm:text-4xl md:text-5xl font-extrabold leading-normal tracking-tighter">
         No catches, Simple.
       </span>
-      <span className="text-[#667085] text-center font-Satoshi text-base font-medium leading-normal mt-3">
+      <span className="text-[#667085] text-center font-Satoshi text-base sm:text-lg font-normal sm:font-medium leading-normal mt-3">
         share your project details, timelines, expectations, and, most
         importantly, your vision with us. No unnecessary formalities required.
       </span>
