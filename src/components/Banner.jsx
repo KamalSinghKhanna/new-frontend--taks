@@ -5,7 +5,7 @@ const Banner = () => {
   const logos = [
     { src: "/react.svg", alt: "logo", name:"React" },
     { src: "/js.svg", alt: "logo", name:"JavaScript" },
-    { src: "/react.svg", alt: "logo", name:"react" },
+    { src: "/nextjs.svg", alt: "logo", name:"react" },
     // { src: "/img2.svg", alt: "logo" },
     // { src: "/img3.svg", alt: "logo" },
     // { src: "/img4.svg", alt: "logo" },
