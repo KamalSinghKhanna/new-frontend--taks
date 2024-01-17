@@ -6,7 +6,7 @@ const Footer = () => {
         &lt;Chill Devs/&gt;
       </span>
       <span className="text-[#9CA3AF] font-Satoshi text-lg font-medium leading-normal tracking-tight">
-        Design amazing digital experiences that <br /> create more happy in the
+        Develop amazing digital experiences that <br /> create more happy in the
         world.
       </span>
       <div className="flex sm:items-center justify-between mt-5 flex-col-reverse sm:flex-row gap-8 sm:gap-0">

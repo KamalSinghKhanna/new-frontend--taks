@@ -5,7 +5,7 @@ const Pricing = () => {
       id="pricing"
     >
       <div className="flex flex-col items-center gap-3 px-0 lg:px-24">
-        <span className="text-[#262E35] text-center font-Satoshi text-4xl sm:text-5xl font-bold leading-snug sm:leading-normal tracking-tighter">
+        <span className="text-[#262E35] text-center font-Satoshi text-4xl sm:text-5xl font-bold leading-tight sm:leading-normal tracking-tighter">
           Flexible Pricing for Web App Solutions
         </span>
         <span className="text-[#6B7280]  text-center font-Satoshi text-lg font-medium leading-normal px-0 sm:px-12 md:px-20 lg:px-36">
@@ -28,7 +28,7 @@ const Pricing = () => {
             <span className="text-[#4B5563] font-Satoshi text-sm font-normal leading-normal ">
               starting from
             </span>
-            <span className="text-[#191D23] text-center  w-full font-Satoshi text-6xl font-semibold leading-normal tracking-tighter">
+            <span className="text-[#191D23] text-center  w-full font-Satoshi text-4xl sm:text-6xl font-semibold leading-normal tracking-tighter">
               ₹2000
             </span>
           </div>
@@ -138,7 +138,7 @@ const Pricing = () => {
             <span className="text-[#F9FAFB] font-Satoshi text-sm font-normal leading-normal ">
               starting from
             </span>
-            <span className="text-[#F9FAFB] text-center  w-full font-Satoshi text-6xl font-semibold leading-normal tracking-tighter">
+            <span className="text-[#F9FAFB] text-center  w-full font-Satoshi text-4xl sm:text-6xl font-semibold leading-normal tracking-tighter">
               ₹5000
             </span>
           </div>
@@ -270,7 +270,7 @@ const Pricing = () => {
             <span className="text-[#4B5563] font-Satoshi text-sm font-normal leading-normal ">
               starting from
             </span>
-            <span className="text-[#191D23] text-center w-full font-Satoshi text-6xl font-semibold leading-normal tracking-tighter">
+            <span className="text-[#191D23] text-center w-full font-Satoshi text-4xl sm:text-6xl font-semibold leading-normal tracking-tighter">
               ₹4000
             </span>
           </div>
