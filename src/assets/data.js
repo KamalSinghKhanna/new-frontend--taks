@@ -88,8 +88,7 @@ export const features = [
     title: "Consultation",
     description:
       "We'll schedule a consultation to dive deeper into your project. This is where we discuss your goals, preferences, and any specific features you have in mind. Our team will work closely with you to ensure a clear understanding of your project requirements.",
-    bgColor:
-      "bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-sky-400 to-blue-800",
+    bgColor: "bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-sky-400 to-blue-800",
   },
   {
     title: "Proposal & Agreement",
@@ -102,7 +101,7 @@ export const features = [
     title: "Development",
     description:
       "Our team of skilled developers will bring your vision to life. Throughout the development process, we'll keep you updated, ensuring transparency and giving you the opportunity to provide feedback.",
-    bgColor: "bg-gradient-to-bl from-indigo-900 via-indigo-400 to-indigo-900
+    bgColor: "bg-gradient-to-bl from-indigo-900 via-indigo-400 to-indigo-900",
   },
   {
     title: "Refinement",
